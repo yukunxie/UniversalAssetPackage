@@ -2,5 +2,5 @@
 A universal asset package for games with high performance, universality, usability and flexibility.
 
 * parallel decoding.
-* multiple encode algorithm support.
+* multiple encode algorithms support.
 * etc.
